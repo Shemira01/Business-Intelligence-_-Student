@@ -3,6 +3,18 @@
 **Team:** Superstore BI Group (Squad C)
 **Date:** November 23, 2025
 **Framework:** EPIC (Engage, Propose, Illustrate, Close)
+### Team Members
+| Name | Reg. Number |
+| :--- | :--- |
+| **Shemiramoth Mugo** | SCT212-0061/2023 |
+| **Nicholas Ndegwa Mwangi** | SCT212-0046/2023 |
+| **Samuel Kuria** | SCT212-0476/2023 |
+| **Gabriella Muthoni** | SCT212-0330/2023 |
+| **Emmanuel Mwangangi** | SCT212-0331/2023 |
+| **Linet Waithira** | SCT212-0042/2023 |
+| **Cecil Kioko** | SCT212-0047/2023 |
+| **Felix Wanyoike** | SCC212-0248/2023 |
+| **Lee Kariuki** | SCT212-0049/2023 |
 
 ---
 
