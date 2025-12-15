@@ -1,0 +1,3 @@
+Group,Total Actual Positives,False Negatives (FN),False Negative Rate (FNR)
+Black,126,59,0.4683
+White,2046,766,0.3744
