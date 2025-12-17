@@ -1,2 +1,2 @@
 # Business-Intelligence-_-Student
-Business Intelligence Projects
+Group 3 Business Intelligence Assignment 1
